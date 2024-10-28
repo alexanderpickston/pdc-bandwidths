@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    683089,      13604]
-NotebookOptionsPosition[    677136,      13501]
-NotebookOutlinePosition[    677705,      13519]
-CellTagsIndexPosition[    677662,      13516]
+NotebookDataLength[    683112,      13605]
+NotebookOptionsPosition[    677159,      13502]
+NotebookOutlinePosition[    677728,      13520]
+CellTagsIndexPosition[    677685,      13517]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -9101,7 +9101,7 @@ Cell[BoxData[
                  RowBox[{
                  "pulseLength", "\[LeftDoubleBracket]", "i", 
                   "\[RightDoubleBracket]"}], "*", 
-                 SuperscriptBox["10", "12"]}], "]"}]}], "<>", "\"\<ps\>\"", 
+                 SuperscriptBox["10", "15"]}], "]"}]}], "<>", "\"\<ps\>\"", 
               "<>", "\"\<\\nFWHM\\n\>\"", "<>", 
               RowBox[{"ToString", "@", 
                RowBox[{"NumberForm", "[", 
@@ -9139,7 +9139,7 @@ Cell[BoxData[
                  RowBox[{
                  "pulseLength", "\[LeftDoubleBracket]", "i", 
                   "\[RightDoubleBracket]"}], "*", 
-                 SuperscriptBox["10", "12"]}], "]"}]}], "<>", "\"\<ps\>\"", 
+                 SuperscriptBox["10", "15"]}], "]"}]}], "<>", "\"\<ps\>\"", 
               "<>", "\"\<\\nFWHM\\n\>\"", "<>", 
               RowBox[{"ToString", "@", 
                RowBox[{"NumberForm", "[", 
@@ -9163,9 +9163,10 @@ Cell[BoxData[
   3.939101988486671*^9, 3.939101991385776*^9}, {3.939102281867249*^9, 
   3.939102293521139*^9}, {3.939102326102578*^9, 3.939102328084104*^9}, {
   3.939102443891087*^9, 3.939102467401596*^9}, {3.9391034774865093`*^9, 
-  3.9391035865489473`*^9}, {3.9391036249762793`*^9, 3.9391037160322*^9}},
+  3.9391035865489473`*^9}, {3.9391036249762793`*^9, 3.9391037160322*^9}, {
+  3.939114807631854*^9, 3.939114837680456*^9}},
  CellLabel->
-  "In[132]:=",ExpressionUUID->"f370579b-464c-47e9-80dc-edcd8847d037"],
+  "In[135]:=",ExpressionUUID->"f370579b-464c-47e9-80dc-edcd8847d037"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -9431,8 +9432,8 @@ Uh8d2t2X3hAELRwtn0RTgiVHJJqphYHgr8nCBhOCkZNbrp7R+AFnsmSDNvWH
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 1\\n-\\n2ps\\nFWHM\\n6.62nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 500ps\\nFWHM\\n6.62nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -9788,8 +9789,8 @@ tpKaEx8MrecXyVxB7VLIaNp8jIIeXvgz8/BG+A8Md9/a
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 1\\n-\\n2ps\\nFWHM\\n7.53nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 500ps\\nFWHM\\n7.53nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -10151,8 +10152,8 @@ f2izZrCF+gQVRj0NokhfCBhMxesLCC4WzhIN57DBerzUfQZ135OeA1e018G8
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 3\\n-\\n5ps\\nFWHM\\n5.46nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 600ps\\nFWHM\\n5.46nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -10508,8 +10509,8 @@ a5sl8e/hKKGjhxOs+Js9y1uLkZvu58Sb7o7wH+vw0vA=
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 3\\n-\\n5ps\\nFWHM\\n6.27nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 600ps\\nFWHM\\n6.27nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -10871,8 +10872,8 @@ NzTcyXOBHTU2rTuo3aXF6gsHnGHlxZjXWWvo/6cnF5SNOcI/AmvVYQ==
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 7\\n--\\n10ps\\nFWHM\\n4.66nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 700ps\\nFWHM\\n4.66nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -11228,8 +11229,8 @@ XGpC/HVzpXpcvzWoVIZOJmpgNFXEHn2rbQX/Ac/C1tY=
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 7\\n--\\n10ps\\nFWHM\\n5.31nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 700ps\\nFWHM\\n5.31nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -11591,8 +11592,8 @@ yoB45VVHlnsXHRaV+AzHLCX5mF3YHhdiAv8Bvw3gbg==
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 4\\n-\\n5ps\\nFWHM\\n4.07nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 800ps\\nFWHM\\n4.07nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -11948,8 +11949,8 @@ bJkb4Qy2hYxaW+IbJovzpLZOoFkhnkjQJfkfG12hm+sA/wFXLcxk
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 4\\n-\\n5ps\\nFWHM\\n4.62nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 800ps\\nFWHM\\n4.62nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -12311,8 +12312,8 @@ ssy+YSX1YPeSIWG8Hcy6IHwv1qH/ZeMwEWxhC/8BzS3O+Q==
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 9\\n--\\n10ps\\nFWHM\\n3.64nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 900ps\\nFWHM\\n3.64nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -12668,8 +12669,8 @@ AWwUDq021KxNVrtdW+1B93z4+F4j+n519Tw7wQ7+B+kJ01U=
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 9\\n--\\n10ps\\nFWHM\\n4.10nm\"", 20, StripOnInput -> 
-             False], TraditionalForm]], 
+            "\"PEF: 900ps\\nFWHM\\n4.10nm\"", 20, StripOnInput -> False], 
+            TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
         FrameLabel->{{None, None}, {None, None}},
@@ -13031,7 +13032,7 @@ ATvXtoZNXdUxERNWzYZvy0QfEjXpPuqLD+lnWcJ/LqXiqQ==
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 1ps\\nFWHM\\n3.30nm\"", 20, StripOnInput -> False], 
+            "\"PEF: 1000ps\\nFWHM\\n3.30nm\"", 20, StripOnInput -> False], 
             TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
@@ -13388,7 +13389,7 @@ I/7LS2dZ3jJzkP3dfzpWCaO6YKN41jVT+A8Gcs72
           BoxData[
            FormBox[
             StyleBox[
-            "\"PEF: 1ps\\nFWHM\\n3.70nm\"", 20, StripOnInput -> False], 
+            "\"PEF: 1000ps\\nFWHM\\n3.70nm\"", 20, StripOnInput -> False], 
             TraditionalForm]], 
           Scaled[{0.78, 0.7}]],
         Frame->{{True, True}, {True, True}},
@@ -13492,9 +13493,9 @@ I/7LS2dZ3jJzkP3dfzpWCaO6YKN41jVT+A8Gcs72
     PlotRangePadding->{6, 5}]}], "}"}]], "Output",
  CellChangeTimes->{{3.93910366632869*^9, 3.9391037167908154`*^9}, 
    3.9391037623956537`*^9, 3.939103964153942*^9, 3.939104007371911*^9, 
-   3.939104203752832*^9},
+   3.939104203752832*^9, {3.939114831016651*^9, 3.939114838968424*^9}},
  CellLabel->
-  "Out[132]=",ExpressionUUID->"1ffb50cc-ec86-4ea0-b7aa-4afefc39284f"]
+  "Out[135]=",ExpressionUUID->"9ea9f39a-15e1-433d-b5b4-851aa1a6902c"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
@@ -13601,8 +13602,8 @@ Cell[458487, 8976, 1557, 38, 58, "Input",ExpressionUUID->"7613a677-deb1-472e-860
 Cell[460047, 9016, 481, 11, 24, "Input",ExpressionUUID->"1bb10ec6-4e91-4e9d-a46b-b21f95b8228d"],
 Cell[460531, 9029, 1674, 43, 43, "Input",ExpressionUUID->"cf45f57c-9531-4039-8ac2-d5514591efa8"],
 Cell[CellGroupData[{
-Cell[462230, 9076, 3990, 91, 232, "Input",ExpressionUUID->"f370579b-464c-47e9-80dc-edcd8847d037"],
-Cell[466223, 9169, 210873, 4327, 719, "Output",ExpressionUUID->"1ffb50cc-ec86-4ea0-b7aa-4afefc39284f"]
+Cell[462230, 9076, 4039, 92, 232, "Input",ExpressionUUID->"f370579b-464c-47e9-80dc-edcd8847d037"],
+Cell[466272, 9170, 210847, 4327, 719, "Output",ExpressionUUID->"9ea9f39a-15e1-433d-b5b4-851aa1a6902c"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
